@@ -1,4 +1,4 @@
-### 🤟🏽
+### 🤙🏿
 
 <!--
 **rucko24/rucko24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"><img src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif" width="100%" height="100%"></a>
+
+[![rucko24's github stats](https://github-readme-stats.vercel.app/api?username=rucko24&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
