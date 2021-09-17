@@ -1,4 +1,4 @@
-### 🤙🏿
+### 🤙🏿 ![GitHub Views](https://komarev.com/ghpvc/?username=rucko24&color=00d600)
 
 <!--
 **rucko24/rucko24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
