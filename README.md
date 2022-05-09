@@ -1,4 +1,4 @@
-### 🤙🏿 ![GitHub Views](https://komarev.com/ghpvc/?username=rucko24&color=00d600) 💛💙❤️ ![alt text](https://3.bp.blogspot.com/-jffoNqajbBI/XKZrZSV9evI/AAAAAAAADpE/D_wZii8jkykQ2EAIITHXKG_B5zV_blkDACK4BGAYYCw/s400/venezuela-flag-pole-animated.gif)
+### 🤙🏿 ![GitHub Views](https://komarev.com/ghpvc/?username=rucko24&color=00d600) ![alt text](https://3.bp.blogspot.com/-jffoNqajbBI/XKZrZSV9evI/AAAAAAAADpE/D_wZii8jkykQ2EAIITHXKG_B5zV_blkDACK4BGAYYCw/s400/venezuela-flag-pole-animated.gif)
 
 <!--
 **rucko24/rucko24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
